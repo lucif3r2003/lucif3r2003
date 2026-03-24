@@ -1,11 +1,11 @@
-## Yo mates! I'm Mạnh-a passionate developer from Vietnam 🇻🇳 👋
-### 🚀 About Me
-- 💻 **Experience:** **1+ year of professional experience** in web development.
-- 🎓 **Academic:** FPT University.
+## Yo mates! I'm Mạnh - a passionate developer from Vietnam 🇻🇳 
+### About Me
+- **Experience:** **1+ year of professional experience** in web development.
+- **Academic:** FPT University.
 - Im trying to do better ^^
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table border="0">
   <tr>
@@ -42,9 +42,5 @@
 
 ---
 
-### 📫 Contact me
-<p align="left">
-  <a href="mailto:buimanhtk1979@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/manhbc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="https://instagram.com/lucif3riiii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></a>
-</p>
+### Contact me
+[**Instagram**](https://instagram.com/luciferriiii) • [**LinkedIn**](https://linkedin.com/in/YOUR_LINKEDIN) • [**Gmail**](mailto:your.email@gmail.com)
