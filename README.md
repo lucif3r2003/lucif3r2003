@@ -1,9 +1,5 @@
 # Yo mates! I'm Mạnh (lucif3r2003)- a passionate developer from Vietnam 🇻🇳 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Professional%20Backend%20Engineer&fontSize=60&animation=fadeIn" />
-</p>
-
 ### 🚀 About Me
 - 💻 **Experience:** **1+ year of professional experience** in web development.
 - 🎓 **Academic:** FPT University.
@@ -12,39 +8,34 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 🔧 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
+<table>
+  <tr>
+    <td width="60%">
+      <a href="#"><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20" /></a>
+      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="20" /></a>
+      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20" /></a>
+      <br><br>
+      <a href="#"><img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="20" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20" /></a>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coder_dribbble.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 GitHub Activity
