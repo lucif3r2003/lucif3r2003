@@ -43,5 +43,5 @@
 ---
 
 ### Contact me
-[**Instagram**](https://instagram.com/luciferriiii) • [**LinkedIn**](https://linkedin.com/in/YOUR_LINKEDIN) • [**Gmail**](mailto:your.email@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/YOUR_LINKEDIN) • [**Gmail**](mailto:manhbc.dev@gmail.com)
  • [**Linktree**](https://linktr.ee/luciferriiii)
