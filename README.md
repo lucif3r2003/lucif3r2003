@@ -1,6 +1,6 @@
 ## Yo mates! I'm Mạnh - a passionate developer from Vietnam 🇻🇳 
 ### About Me
-- **Experience:** **1+ year of professional experience** in web development.
+- **Experience:** **2+ year of professional experience** in web development.
 - **Academic:** FPT University.
 - Im trying to do better ^^
 ---
